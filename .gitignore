@@ -1,1 +1,16 @@
 .idea
+src/fs/files
+src/cli/files
+src/cp/files
+src/hash/files
+src/modules/files
+src/streams/files
+src/wt/files
+src/zip/files
+
+
+
+
+
+
+
